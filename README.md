@@ -25,7 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-BrooklynNineNine (https://github.com/Linked989/Linked989.github.io/blob/master/Write-up/THM/BrooklynNineNine.md)
+[BrooklynNineNine] (/Write-up/THM/BrooklynNineNine.md)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
