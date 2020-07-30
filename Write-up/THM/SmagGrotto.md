@@ -23,3 +23,4 @@ Port 22 - SSH
 Port 80 - HTTP
 ```
 Before doing anything else let's check port 80
+(/images/http.png)
