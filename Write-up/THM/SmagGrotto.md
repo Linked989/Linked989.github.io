@@ -25,3 +25,5 @@ Port 80 - HTTP
 Before doing anything else let's check port 80
 
 <img src="https://github.com/Linked989/Linked989.github.io/blob/master/Write-up/THM/images/http.png?raw=true" alt="http" width="200"/></a>
+
+<img src="../images/http.png" alt="tryhackme" width="200"/></a>
