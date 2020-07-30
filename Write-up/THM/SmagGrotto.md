@@ -26,3 +26,18 @@ Before doing anything else let's check port 80
 
 <img src="https://github.com/Linked989/Linked989.github.io/blob/master/Write-up/THM/images/http.png?raw=true" alt="http"/>
 
+Nothing much on the website. Let's try and run **Gobuster** maybe we can find something that can help us.
+
+```
+Gobuster dir -u <IP ADDR> -w /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+```
+
+Gobuster results:
+
+**/mail**
+
+Let's see what is in there.
+
+<img src="https://github.com/Linked989/Linked989.github.io/blob/master/Write-up/THM/images/mail.png?raw=true" alt="http"/>
+
+
