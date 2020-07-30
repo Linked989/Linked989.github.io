@@ -40,4 +40,7 @@ Let's see what is in there.
 
 <img src="https://github.com/Linked989/Linked989.github.io/blob/master/Write-up/THM/images/mail.png?raw=true" alt="http"/>
 
+Looks like there is some sort of email exchange... and a pcap file wich can be opened with Wireshark, so let's download the file.
+Let's open the pcap file:
 
+<img src="https://github.com/Linked989/Linked989.github.io/blob/master/Write-up/THM/images/wirescark.png?raw=true" alt="http"/>
