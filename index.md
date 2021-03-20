@@ -4,4 +4,4 @@
 
 [0day (THM) Write-up](/Write-up/THM/0day (THM) Write-up.md)
 
-[test](/Write-up/THM/test.md)
+[test](/Write-up/THM/aaatest.md)
